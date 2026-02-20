@@ -1,0 +1,1 @@
+This problem focuses on finding two distinct elements in an array whose sum equals a given target value. The solution returns the indices of the two numbers, ensuring that each input has exactly one valid pair and the same element is not used twice. An efficient approach using a hash map helps achieve optimal time complexity.
